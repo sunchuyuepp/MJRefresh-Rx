@@ -1,2 +1,2 @@
 # MJRefresh-Rx
-对MJRefreshComponent增加rx扩展
+对MJRefresh增加rx扩展
